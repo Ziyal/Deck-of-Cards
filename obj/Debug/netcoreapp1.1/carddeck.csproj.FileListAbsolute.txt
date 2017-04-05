@@ -1,0 +1,8 @@
+C:\Users\Sereina\documents\coding_dojo\c#\carddeck\bin\Debug\netcoreapp1.1\carddeck.deps.json
+C:\Users\Sereina\documents\coding_dojo\c#\carddeck\bin\Debug\netcoreapp1.1\carddeck.runtimeconfig.json
+C:\Users\Sereina\documents\coding_dojo\c#\carddeck\bin\Debug\netcoreapp1.1\carddeck.runtimeconfig.dev.json
+C:\Users\Sereina\documents\coding_dojo\c#\carddeck\bin\Debug\netcoreapp1.1\carddeck.dll
+C:\Users\Sereina\documents\coding_dojo\c#\carddeck\bin\Debug\netcoreapp1.1\carddeck.pdb
+C:\Users\Sereina\documents\coding_dojo\c#\carddeck\obj\Debug\netcoreapp1.1\carddeck.AssemblyInfo.cs
+C:\Users\Sereina\documents\coding_dojo\c#\carddeck\obj\Debug\netcoreapp1.1\carddeck.dll
+C:\Users\Sereina\documents\coding_dojo\c#\carddeck\obj\Debug\netcoreapp1.1\carddeck.pdb
